@@ -1,4 +1,7 @@
-### Hi there 👋
+### NordinR
+
+![img](assets/banner.png)
+
 
 <!--
 **nordinr/nordinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
