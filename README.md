@@ -1,6 +1,7 @@
-### NordinR
+## NordinR 🚀️
 
-![img](assets/banner.png)
+
+![](assets/20240404_144639_banner.png)
 
 
 <!--
