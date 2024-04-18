@@ -3,7 +3,9 @@
 
 ![](assets/20240404_144639_banner.png)
 
-
+```
+Time is limited, but nothing is impossible.
+```
 <!--
 **nordinr/nordinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
