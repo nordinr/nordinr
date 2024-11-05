@@ -4,6 +4,12 @@
 ![](assets/20240404_144639_banner.png)
 
 > Time is limited, but nothing is impossible ⚡️
+
+## Languages I Use
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!--
 **nordinr/nordinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
